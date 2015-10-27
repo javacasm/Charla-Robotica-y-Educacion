@@ -13,9 +13,9 @@
 
 * ¿qué aporta?
 
-## ¿Qué es la robótica?
-
 ### Mejor como algo transversal
+
+## ¿Qué es la robótica?
 
 ## ¿Edades?
 
@@ -25,8 +25,7 @@
 
 ## Ejemplos
 
-* [Granada mágica](http://alhambramagica.blogspot.com.es/)
-
+* [Granada mágica](./granadaMagica.md)
 
 # Programación
 
