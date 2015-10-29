@@ -2,38 +2,55 @@
 
 ## La moda de la robótica
 
-* Mooc
-* Experiencias online
+* MOOCs Robóticos
+* Experiencias online everywhere
 
-## Proyectos de robótica o proyectos que usan robótica
+## ¿Proyectos de robótica o mejor proyectos que usan robótica?
 
 * ¿Asignatura de robótica?
 
 * ¿Enseñar robótica?
 
-* ¿qué aporta?
+* ¿qué aporta? 
 
-### Mejor como algo transversal
+### Mejor si lo usamos como algo transversal
 
-## ¿Qué es la robótica?
-
-## ¿Edades?
+### ¿Edades?
 
 * ¿Uno para todos o uno para cada edad?
 
 ## ¿Coste?
 
+* Podemos aprender a reciclar materiales
+
+## ¿Qué es la robótica?
+
+* ¿Seré capaz de programar? Vamos a verlo...
+	* ¿Podemos enseñar a programar?
+	* ¿Para qué sirve programar?
+
+* ¿Seré capaz de diseñar en 3D? Veámoslo
+	* ¿Lo uso o lo hago?
+
+* ¿Sabré electrónica? Kits
+
+* ¿Sabré dirigirlos? ¡Seguro que sí!
+	* Trabajando los proyectos
+
+* ¿Necesito un taller?
+	* Trabajando fuera del aula
+
 ## Ejemplos
+
+No todos los robots lo parecen
 
 * [Granada mágica](./granadaMagica.md)
 
-# Programación
+* Invernaderos automáticos = Biología + meteorología + Ecología
 
-¿Podemos enseñar a programar?
+* Robots que al moverse hacen matemáticas: matemáticas para hacer que un robot se mueva
 
-¿Para qué sirve programar?
+* ¿Puedo enseñar historia con Scratch?
 
 
-# 3D
 
-* ¿Lo uso o lo hago?
