@@ -11,7 +11,7 @@
 
 * ¿Enseñar robótica?
 
-* ¿qué aporta? 
+* ¿qué aporta?
 
 ### Mejor si lo usamos como algo transversal
 
@@ -44,13 +44,8 @@
 
 No todos los robots lo parecen
 
-* [Granada mágica](./granadaMagica.md)
-
 * Invernaderos automáticos = Biología + meteorología + Ecología
 
 * Robots que al moverse hacen matemáticas: matemáticas para hacer que un robot se mueva
 
 * ¿Puedo enseñar historia con Scratch?
-
-
-
