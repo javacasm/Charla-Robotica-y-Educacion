@@ -2,6 +2,8 @@
 
 # Alhambra mágica
 
+![CC](./images/Licencia CC.png)
+
 ##  Trabajando todos
 ![trabajando todos](https://www.flickr.com/photos/fantasticoguevejar/15872816374/in/album-72157650743695171/)
 
