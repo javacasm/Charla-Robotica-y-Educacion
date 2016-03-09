@@ -1,5 +1,7 @@
 # Robótica en la educación
 
+![CC](./images/Licencia CC.png)
+
 ## La moda de la robótica
 
 * MOOCs Robóticos
